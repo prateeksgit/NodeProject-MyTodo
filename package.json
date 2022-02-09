@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "file-system": "^2.2.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
